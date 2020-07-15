@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://https://img.shields.io/badge/Jet_Hu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hujienan)](https://www.linkedin.com/in/hujienan)
+[![Linkedin Badge](https://img.shields.io/badge/Jet_Hu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hujienan)](https://www.linkedin.com/in/hujienan)
 
 <!--
 **hujienan/hujienan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
